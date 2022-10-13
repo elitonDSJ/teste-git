@@ -1,1 +1,8 @@
-<?php echo 'OLA MUNDO'; ?>
+<?php 
+echo 'OLA MUNDO';
+echo 'FALA GALERA!';
+	
+
+
+
+?>
